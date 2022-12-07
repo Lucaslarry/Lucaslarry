@@ -1,9 +1,11 @@
 # Olá! Sou o Lucas Larry 😴
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslarryy/)
 
-[![Lucas Larry GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslarry&theme=dracula)](https://github.com/Lucaslarry?tab=repositories)
+<div align="left">
+  <a href="https://github.com/pedrohpdo">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Lucaslarry&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslarry&layout=compact&langs_count=7&theme=dracula"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslarry)](https://github.com/Lucaslarry?tab=repositories)
 
 ## Tecnologias:
 
