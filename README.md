@@ -1,5 +1,5 @@
 # Olá! Sou o Lucas Larry 😴
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslarryy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslarryy)
 
 <div align="left">
   <a href="https://github.com/Lucaslarry">
