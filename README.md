@@ -1,7 +1,7 @@
-
+  # Olá! Sou o Lucas Larry 😴
 
 <div div style="display: inline_block" align="center">
-  # Olá! Sou o Lucas Larry 😴
+
   <a href="https://github.com/lucaslarry">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucaslarry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucaslarry&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
