@@ -1,3 +1,5 @@
+#                             Olá! Sou o Lucas Larry 😴
+
 <div align="center">
   <a href="https://github.com/lucaslarry">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucaslarry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -5,7 +7,7 @@
   </a>
 </div>
 
-## Tecnologias:
+##                             Tecnologias:
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
