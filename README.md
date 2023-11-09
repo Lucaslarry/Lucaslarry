@@ -1,7 +1,5 @@
-<div div style="display: inline_block" align="center">
-# Olá, Seja bem-vindo!
-</div>
-
+ # Olá, Seja bem-vindo!
+ 
 <div div style="display: inline_block" align="center">
   <a href="https://github.com/lucaslarry">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucaslarry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
