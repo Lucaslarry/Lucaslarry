@@ -1,4 +1,6 @@
+<div div style="display: inline_block" align="center">
 # Olá, Seja bem-vindo!
+</div>
 
 <div div style="display: inline_block" align="center">
   <a href="https://github.com/lucaslarry">
